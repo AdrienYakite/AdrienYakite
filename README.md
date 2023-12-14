@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdrienYakite
-- 👀 I’m interested in becoming a what's a front end developer.
+- 👀 I’m interested in becoming a front end developer.
 - 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : MAIL = adrien.yakite@gmail.com; TWITTER = @Redsmash0
