@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AdrienYakite
-- 👀 I’m interested in becoming a front end developer.
+- 👀 I want to become a Front-End developer
 - 🌱 I’m currently learning JavaScript and React.
-- 📫 How to reach me :
+- 📫 How to reach me : email, or dm on X.
 - MAIL = adrien.yakite@gmail.com
-- TWITTER = @Redsmash0
+- X = @Redsmash0
 
 <!---
 AdrienYakite/AdrienYakite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
